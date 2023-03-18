@@ -1,0 +1,27 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Home page";
+}
+
+
+@if (Model.Launches != null)
+{
+    
+    @if (Model.Rockets != null)
+    {
+
+            @foreach (var rocket in Model.Rockets)
+            {
+                 <h4>@rocket.RocketName</h4>
+            }   
+    }
+}
+
+<form method="post">
+    <button type="submit" asp-page-handler="CalculateTotalPrice">Calculate Rocket Cost</button>
+</form>
+
+
+
+

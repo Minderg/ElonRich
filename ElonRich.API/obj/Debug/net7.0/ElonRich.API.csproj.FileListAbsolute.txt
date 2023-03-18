@@ -1,0 +1,14 @@
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\bin\Debug\net7.0\ElonRich.API.deps.json
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\bin\Debug\net7.0\ElonRich.API.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\bin\Debug\net7.0\ElonRich.API.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\bin\Debug\net7.0\ElonRich.API.pdb
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\refint\ElonRich.API.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.pdb
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ElonRich.API.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.API\obj\Debug\net7.0\ref\ElonRich.API.dll

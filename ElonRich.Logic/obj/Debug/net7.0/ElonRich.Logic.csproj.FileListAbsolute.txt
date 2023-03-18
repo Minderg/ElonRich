@@ -1,0 +1,17 @@
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.Logic.deps.json
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.Logic.runtimeconfig.json
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.Logic.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.Logic.pdb
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.API.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\bin\Debug\net7.0\ElonRich.API.pdb
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.csproj.AssemblyReference.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.AssemblyInfoInputs.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.AssemblyInfo.cs
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.csproj.CoreCompileInputs.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.csproj.CopyComplete
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\refint\ElonRich.Logic.dll
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.pdb
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ElonRich.Logic.genruntimeconfig.cache
+C:\Users\Gabri\OneDrive\Skrivbord\OPF2\ElonRich\ElonRich.Logic\obj\Debug\net7.0\ref\ElonRich.Logic.dll
