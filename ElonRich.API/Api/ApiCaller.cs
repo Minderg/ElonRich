@@ -11,22 +11,31 @@ namespace ElonRich.API.Api
 {
     public class ApiCaller
     {
-        public async Task<List<ElonRich.API.Models.Launch.LaunchModel.Root>> GetAllLaunches()
+        public async Task<List<ElonRich.API.Models.Launch.LaunchModel.Root>?> GetAllLaunches()
         {
             var client = await ApiInitializer.HttpClient.GetAsync("https://api.spacexdata.com/v3/launches");
             var response = await client.Content.ReadAsStringAsync();
             List <ElonRich.API.Models.Launch.LaunchModel.Root> result = JsonConvert.DeserializeObject<List<ElonRich.API.Models.Launch.LaunchModel.Root>>(response);
 
-            return result;
+            if(result != null)
+            {
+                return result;
+            }
+            return null;
         }
 
-        public async Task<List<ElonRich.API.Models.Rocket.RocketModel.Root>> GetAllRockets()
+        public async Task<List<ElonRich.API.Models.Rocket.RocketModel.Root>?> GetAllRockets()
         {
             var client = await ApiInitializer.HttpClient.GetAsync("https://api.spacexdata.com/v3/rockets");
             var response = await client.Content.ReadAsStringAsync();
             List<ElonRich.API.Models.Rocket.RocketModel.Root> result = JsonConvert.DeserializeObject<List<ElonRich.API.Models.Rocket.RocketModel.Root>>(response);
 
-            return result;
+            if(result != null)
+            {
+                return result;
+            }
+
+            return null;
         }
     }
 }

@@ -22,9 +22,17 @@ namespace ElonRich.Ui.Pages
 
         public async Task OnGet()
         {
+            Rockets = await new ApiCaller().GetAllRockets();
+
+        }
+
+        public async Task<IActionResult> OnPost()
+        {
             Launches = await new ApiCaller().GetAllLaunches();
             Rockets = await new ApiCaller().GetAllRockets();
             Price = await priceManager.CalculateTotalPrice(Launches, Rockets);
+
+            return Page();
         }
     }
 }

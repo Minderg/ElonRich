@@ -12,15 +12,21 @@
     {
 
             @foreach (var rocket in Model.Rockets)
-            {
-                 <h4>@rocket.RocketName</h4>
+            {           
+                <h4>@rocket.RocketName</h4>  
             }   
     }
 }
 
+<div>
 <form method="post">
-    <button type="submit" asp-page-handler="CalculateTotalPrice">Calculate Rocket Cost</button>
+    <input type="submit" value="Calculate Price"/>
 </form>
+@if(Model.Price > 0)
+{
+    <h4>Price: @Model.Price</h4>
+}
+</div>
 
 
 
